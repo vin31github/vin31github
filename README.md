@@ -8,3 +8,4 @@
 vin31github/vin31github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Check out my address in Scopescan: 0x229187b2f7ab87cf7290eda3e5dc0ecac3ee17ad
